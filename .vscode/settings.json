@@ -1,0 +1,4 @@
+{
+    "html-fmt-vscode.voidTagsTrailingSlashStyle": "preserve",
+    "files.maxMemoryForLargeFilesMB": 6144
+}
